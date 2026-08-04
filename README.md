@@ -23,16 +23,6 @@
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Edisonkz&theme=tokyonight&column=6" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
 ### 💻 System Terminal Status
 
 ```bash
@@ -48,64 +38,46 @@
 
 ---
 
-### 📐 End-to-End System Blueprint
+### 🧠 Software Engineering Pillars & Core Competencies
 
-<div align="center">
-
-```mermaid
-graph TD
-    classDef client fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#f8fafc;
-    classDef gateway fill:#1e1b4b,stroke:#818cf8,stroke-width:2px,color:#f8fafc;
-    classDef backend fill:#064e3b,stroke:#34d399,stroke-width:2px,color:#f8fafc;
-    classDef ai fill:#4c1d95,stroke:#c084fc,stroke-width:2px,color:#f8fafc;
-    classDef data fill:#701a75,stroke:#f472b6,stroke-width:2px,color:#f8fafc;
-
-    subgraph CLIENTS ["🌐 Client & Presentation Layer"]
-        A["🅰️ Angular PWA (Offline-First)"]:::client
-        B["⚛️ React Web Apps"]:::client
-        C["📱 Android Native App"]:::client
-    end
-
-    subgraph SECURITY ["🛡️ API Gateway & Edge Security"]
-        GW["🌐 OCI Load Balancer / WAF"]:::gateway
-        AUTH["🔑 Auth Service & JWT Tokens"]:::gateway
-    end
-
-    subgraph SERVICES ["⚙️ Core Backend Services"]
-        JAVA["☕ Java & Spring Boot (Microservices)"]:::backend
-        CLEAN["📐 Clean Architecture & SOLID"]:::backend
-    end
-
-    subgraph AI_ENGINE ["🤖 AI & Machine Learning Inference"]
-        FAST["🐍 Python & FastAPI"]:::ai
-        MODELS["🧠 NLP & LLM Models (PyTorch / Scikit-Learn)"]:::ai
-    end
-
-    subgraph STORAGE ["🗄️ Persistence & Cloud Infrastructure"]
-        DB["🐘 PostgreSQL & MySQL (ACID)"]:::data
-        MONGO["🍃 MongoDB (Document DB)"]:::data
-        OCI["☁️ Oracle Cloud (OCI Containers & Docker)"]:::data
-    end
-
-    CLIENTS -->|HTTPS / REST / WebSockets| SECURITY
-    SECURITY -->|Secured Traffic| SERVICES
-    SERVICES <-->|Async REST / Inference| AI_ENGINE
-    SERVICES -->|Persistence| DB
-    SERVICES -->|Document Store| MONGO
-    SERVICES & AI_ENGINE & STORAGE --- OCI
-```
-
-</div>
-
----
-
-### 📈 Activity & Contribution Matrix
-
-<div align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edisonkz&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  </a>
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏗️ Enterprise Architecture & Clean Code</h4>
+      <ul>
+        <li><b>Clean Architecture & SOLID</b>: Design patterns focused on maintainability, testability, and decoupled domain logic.</li>
+        <li><b>Microservices & Distributed Systems</b>: High-availability backend services using Spring Boot and FastAPI.</li>
+        <li><b>Event-Driven Patterns</b>: Asynchronous message passing, Pub/Sub, and event ingestion.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Pragmatic AI & Data Pipelines</h4>
+      <ul>
+        <li><b>RAG & LLM Integration</b>: Vector search, contextual retrieval, and prompt architecture using LangChain & Python.</li>
+        <li><b>Machine Learning Models</b>: Inference pipelines with PyTorch, Scikit-Learn, and Hugging Face.</li>
+        <li><b>FastAPI Inference Engine</b>: Low-latency REST endpoints for real-time model serving.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 End-to-End SaaS & Modern Frontend</h4>
+      <ul>
+        <li><b>Angular & React PWAs</b>: Offline-first client applications, state management, and modern UX/UI.</li>
+        <li><b>Multi-Tenant Systems</b>: Scalable tenant isolation and SaaS backend architecture.</li>
+        <li><b>API Design</b>: RESTful APIs, WebSockets for real-time chat, and JWT security governance.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud Native & DevOps Excellence</h4>
+      <ul>
+        <li><b>Oracle Cloud Infrastructure (OCI)</b>: Deployment, compute instances, VCN networking, and IAM.</li>
+        <li><b>Containerization</b>: Dockerized environments for reproducible development and production builds.</li>
+        <li><b>CI/CD Automation</b>: GitHub Actions pipelines for automated testing and deployment.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -189,7 +161,7 @@ graph TD
 - **Key Engineering Highlights**:
   - PWA Offline-first con estrategia de sincronización asíncrona de datos.
   - Motor de chat interactivo por tarea y módulo de predicción meteorológica impulsado por IA.
-  - Diseño multinquilino (Multi-tenant) preparado para escalabilidad SaaS commercial.
+  - Diseño multinquilino (Multi-tenant) preparado para escalabilidad SaaS comercial.
 </details>
 
 <details>
@@ -245,29 +217,11 @@ graph TD
 
 ---
 
-### 📊 GitHub Engineering Analytics
+### 📈 GitHub Contribution Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Edisonkz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Edison's GitHub Stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edisonkz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <!-- Streak Stats Link Fixed -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edisonkz&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edisonkz&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
 </div>
 
@@ -275,7 +229,7 @@ graph TD
 
 <div align="center">
   <!-- Futuristic Waving Bottom Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e1b4b,70:0284c7,100:38bdf8&height=100&section=footer" width="100%" alt="Footer Banner" />
 
   <sub>Crafted with 💙 by <b>Edison Edgar Sivipaucar Quispe</b> | <i>Architecting Scalable Systems & Future Tech</i></sub>
 </div>
