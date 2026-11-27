@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://edisonkz.netlify.app/">
-    <img src="assets/svg/hero.svg" width="100%" alt="Edison Edgar Sivipaucar Quispe — Software Engineer &amp; Systems Architect" />
+    <img src="assets/svg/hero.svg" width="100%" alt="Edison Edgar Sivipaucar Quispe — Ingeniero de Software &amp; Arquitecto de Soluciones End-to-End" />
   </a>
 
   <p align="center">
