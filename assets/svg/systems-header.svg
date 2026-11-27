@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Sistemas y Arquitecturas">
+  <rect width="1200" height="220" rx="18" fill="#05070f" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="44" y="48" fill="#38bdf8" font-family="ui-monospace, Consolas, monospace" font-size="12" letter-spacing="2">// ~/SISTEMAS · ARQUITECTURAS EN PRODUCCIÓN</text>
+  <text x="44" y="96" fill="#e9edf7" font-family="system-ui, sans-serif" font-size="40" font-weight="800">SISTEMAS QUE <tspan fill="#38bdf8">DISEÑÉ</tspan></text>
+  <text x="44" y="132" fill="#8b93a8" font-family="system-ui, sans-serif" font-size="16">Plataformas reales con enfoque en microservicios, IA/RAG, SaaS y Clean Architecture.</text>
+  <text x="44" y="182" fill="#4ade80" font-family="ui-monospace, Consolas, monospace" font-size="13">05 ARQUITECTURAS CLAVE   ·   JAVA / SPRING BOOT · PYTHON / FASTAPI · OCI</text>
+
+  <rect x="700" y="28" width="460" height="164" rx="14" fill="#0b0f1c" stroke="#38bdf8" stroke-opacity="0.4"/>
+  <rect x="700" y="28" width="460" height="30" rx="14" fill="#101526"/>
+  <circle cx="720" cy="43" r="4.5" fill="#ff5f57"/>
+  <circle cx="735" cy="43" r="4.5" fill="#febc2e"/>
+  <circle cx="750" cy="43" r="4.5" fill="#28c840"/>
+  <text x="772" y="47" fill="#8b93a8" font-family="ui-monospace, Consolas, monospace" font-size="11">edison@github: ~/sistemas</text>
+  <text x="722" y="84" fill="#4ade80" font-family="ui-monospace, Consolas, monospace" font-size="12">edison@github:~$ ls ~/sistemas</text>
+  <text x="722" y="110" fill="#e9edf7" font-family="ui-monospace, Consolas, monospace" font-size="12">plataforma-empresarial   projectflow-saas</text>
+  <text x="722" y="132" fill="#e9edf7" font-family="ui-monospace, Consolas, monospace" font-size="12">control-acceso-ai        inferencia-nlp</text>
+  <text x="722" y="154" fill="#e9edf7" font-family="ui-monospace, Consolas, monospace" font-size="12">inventarios-multitienda</text>
+  <text x="722" y="178" fill="#38bdf8" font-family="ui-monospace, Consolas, monospace" font-size="12">✓ 5 arquitecturas documentadas en portafolio</text>
+</svg>

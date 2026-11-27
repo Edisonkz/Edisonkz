@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" width="1200" height="390" role="img" aria-label="Stack tecnológico en 3 capas">
+  <rect width="1200" height="390" rx="18" fill="#05070f" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="40" y="42" fill="#38bdf8" font-family="ui-monospace, Consolas, monospace" font-size="12" letter-spacing="2">// ~/STACK · 24 MÓDULOS EN 3 CAPAS</text>
+  <text x="40" y="78" fill="#e9edf7" font-family="system-ui, sans-serif" font-size="30" font-weight="800">LENGUAJES Y <tspan fill="#a78bfa">FRAMEWORKS</tspan></text>
+
+  <!-- Layer 01 -->
+  <rect x="40" y="102" width="1120" height="72" rx="12" fill="#0b0f1c" stroke="#38bdf8" stroke-opacity="0.4"/>
+  <text x="64" y="132" fill="#38bdf8" font-family="ui-monospace, Consolas, monospace" font-size="13" font-weight="700">01 · CLIENTE &amp; UI</text>
+  <text x="64" y="152" fill="#8b93a8" font-family="ui-monospace, Consolas, monospace" font-size="11">07 MÓDULOS</text>
+  <g font-family="ui-monospace, Consolas, monospace" font-size="12" fill="#e9edf7">
+    <rect x="260" y="120" width="116" height="34" rx="8" fill="#05070f" stroke="#38bdf8" stroke-opacity="0.5"/><text x="278" y="141">Angular PWA</text>
+    <rect x="388" y="120" width="90" height="34" rx="8" fill="#05070f" stroke="#ffffff" stroke-opacity="0.15"/><text x="412" y="141">React</text>
+    <rect x="490" y="120" width="116" height="34" rx="8" fill="#05070f" stroke="#ffffff" stroke-opacity="0.15"/><text x="510" y="141">TypeScript</text>
+    <rect x="618" y="120" width="98" height="34" rx="8" fill="#05070f" stroke="#ffffff" stroke-opacity="0.15"/><text x="640" y="141">Next.js</text>
+    <rect x="728" y="120" width="88" height="34" rx="8" fill="#05070f" stroke="#ffffff" stroke-opacity="0.15"/><text x="752" y="141">Astro</text>
+    <rect x="828" y="120" width="112" height="34" rx="8" fill="#05070f" stroke="#ffffff" stroke-opacity="0.15"/><text x="850" y="141">Tailwind</text>
+    <rect x="952" y="120" width="104" height="34" rx="8" fill="#05070f" stroke="#ffffff" stroke-opacity="0.15"/><text x="976" y="141">Android</text>
+  </g>
+
+  <text x="485" y="192" fill="#64708a" font-family="ui-monospace, Consolas, monospace" font-size="11">↑  HTTP · REST · WEBSOCKETS · JSON  ↓</text>
+
+  <!-- Layer 02 -->
+  <rect x="40" y="202" width="1120" height="72" rx="12" fill="#0b0f1c" stroke="#4ade80" stroke-opacity="0.4"/>
+  <text x="64" y="232" fill="#4ade80" font-family="ui-monospace, Consolas, monospace" font-size="13" font-weight="700">02 · BACKEND &amp; CORE</text>
+  <text x="64" y="252" fill="#8b93a8" font-family="ui-monospace, Consolas, monospace" font-size="11">07 MÓDULOS</text>
+  <g font-family="ui-monospace, Consolas, monospace" font-size="12" fill="#e9edf7">
+    <rect x="260" y="220" width="86" height="34" rx="8" fill="#05070f" stroke="#ffffff" stroke-opacity="0.15"/><text x="286" y="241">Java</text>
+    <rect x="358" y="220" width="124" height="34" rx="8" fill="#05070f" stroke="#4ade80" stroke-opacity="0.55"/><text x="378" y="241">Spring Boot</text>
+    <rect x="494" y="220" width="96" height="34" rx="8" fill="#05070f" stroke="#ffffff" stroke-opacity="0.15"/><text x="518" y="241">Python</text>
+    <rect x="602" y="220" width="104" height="34" rx="8" fill="#05070f" stroke="#4ade80" stroke-opacity="0.55"/><text x="626" y="241">FastAPI</text>
+    <rect x="718" y="220" width="102" height="34" rx="8" fill="#05070f" stroke="#ffffff" stroke-opacity="0.15"/><text x="742" y="241">Node.js</text>
+    <rect x="832" y="220" width="102" height="34" rx="8" fill="#05070f" stroke="#ffffff" stroke-opacity="0.15"/><text x="854" y="241">GraphQL</text>
+    <rect x="946" y="220" width="110" height="34" rx="8" fill="#05070f" stroke="#ffffff" stroke-opacity="0.15"/><text x="968" y="241">JWT · SOLID</text>
+  </g>
+
+  <text x="510" y="292" fill="#64708a" font-family="ui-monospace, Consolas, monospace" font-size="11">↑  GRPC · PUB/SUB · RAG · SQL  ↓</text>
+
+  <!-- Layer 03 -->
+  <rect x="40" y="302" width="1120" height="72" rx="12" fill="#0b0f1c" stroke="#a78bfa" stroke-opacity="0.4"/>
+  <text x="64" y="332" fill="#a78bfa" font-family="ui-monospace, Consolas, monospace" font-size="13" font-weight="700">03 · IA, DATOS &amp; CLOUD</text>
+  <text x="64" y="352" fill="#8b93a8" font-family="ui-monospace, Consolas, monospace" font-size="11">07 MÓDULOS</text>
+  <g font-family="ui-monospace, Consolas, monospace" font-size="12" fill="#e9edf7">
+    <rect x="260" y="320" width="114" height="34" rx="8" fill="#05070f" stroke="#a78bfa" stroke-opacity="0.55"/><text x="282" y="341">LangChain</text>
+    <rect x="386" y="320" width="98" height="34" rx="8" fill="#05070f" stroke="#ffffff" stroke-opacity="0.15"/><text x="408" y="341">PyTorch</text>
+    <rect x="496" y="320" width="124" height="34" rx="8" fill="#05070f" stroke="#ffffff" stroke-opacity="0.15"/><text x="516" y="341">Scikit-Learn</text>
+    <rect x="632" y="320" width="116" height="34" rx="8" fill="#05070f" stroke="#ffffff" stroke-opacity="0.15"/><text x="652" y="341">PostgreSQL</text>
+    <rect x="760" y="320" width="88" height="34" rx="8" fill="#05070f" stroke="#ffffff" stroke-opacity="0.15"/><text x="784" y="341">Redis</text>
+    <rect x="860" y="320" width="96" height="34" rx="8" fill="#05070f" stroke="#a78bfa" stroke-opacity="0.55"/><text x="884" y="341">Docker</text>
+    <rect x="968" y="320" width="120" height="34" rx="8" fill="#05070f" stroke="#ffffff" stroke-opacity="0.15"/><text x="986" y="341">OCI · CI/CD</text>
+  </g>
+</svg>

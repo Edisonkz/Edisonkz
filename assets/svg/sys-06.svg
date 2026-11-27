@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1172 195" width="1172" height="195" role="img" aria-label="FhashMusic Studio — Angular 21 + FastAPI Clean Architecture">
+  <rect width="1172" height="195" rx="16" fill="#0b0f1c" stroke="#ff6b2c" stroke-opacity="0.5"/>
+  <rect width="1172" height="36" rx="16" fill="#101526"/>
+  <circle cx="24" cy="18" r="5" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="5" fill="#febc2e"/>
+  <circle cx="60" cy="18" r="5" fill="#28c840"/>
+  <text x="82" y="22" fill="#8b93a8" font-family="ui-monospace, Consolas, monospace" font-size="12">sistema/fhashmusic</text>
+  <text x="1032" y="22" fill="#ff8a54" font-family="ui-monospace, Consolas, monospace" font-size="11">GITHUB REPO ↗</text>
+
+  <text x="28" y="72" fill="#ff6b2c" font-family="ui-monospace, Consolas, monospace" font-size="11">06 · ANGULAR 21 · FASTAPI · CLEAN ARCHITECTURE</text>
+  <text x="28" y="106" fill="#e9edf7" font-family="system-ui, sans-serif" font-size="22" font-weight="800">FhashMusic Studio — Plataforma Musical Full-Stack</text>
+  <text x="28" y="134" fill="#8b93a8" font-family="system-ui, sans-serif" font-size="14">Descubrimiento musical, reproductor global persistente, biblioteca SQLite y cola MP3/MP4 con caché TTL, 21 pruebas y CI.</text>
+
+  <g font-family="ui-monospace, Consolas, monospace" font-size="11" fill="#e9edf7">
+    <rect x="28" y="152" width="96" height="26" rx="6" fill="#05070f" stroke="#ffffff" stroke-opacity="0.14"/><text x="41" y="169">ANGULAR 21</text>
+    <rect x="134" y="152" width="76" height="26" rx="6" fill="#05070f" stroke="#ffffff" stroke-opacity="0.14"/><text x="148" y="169">FASTAPI</text>
+    <rect x="220" y="152" width="70" height="26" rx="6" fill="#05070f" stroke="#ffffff" stroke-opacity="0.14"/><text x="234" y="169">SQLITE</text>
+    <rect x="300" y="152" width="70" height="26" rx="6" fill="#05070f" stroke="#ffffff" stroke-opacity="0.14"/><text x="314" y="169">FFMPEG</text>
+    <rect x="380" y="152" width="156" height="26" rx="6" fill="#05070f" stroke="#ff6b2c" stroke-opacity="0.55"/><text x="394" y="169" fill="#ff8a54">CLEAN ARCHITECTURE</text>
+  </g>
+</svg>

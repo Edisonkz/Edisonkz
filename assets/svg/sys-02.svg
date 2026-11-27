@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 260" width="580" height="260" role="img" aria-label="ProjectFlow SaaS">
+  <rect width="580" height="260" rx="16" fill="#0b0f1c" stroke="#a78bfa" stroke-opacity="0.45"/>
+  <rect width="580" height="36" rx="16" fill="#101526"/>
+  <circle cx="24" cy="18" r="5" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="5" fill="#febc2e"/>
+  <circle cx="60" cy="18" r="5" fill="#28c840"/>
+  <text x="82" y="22" fill="#8b93a8" font-family="ui-monospace, Consolas, monospace" font-size="12">sistema/projectflow</text>
+  <text x="456" y="22" fill="#a78bfa" font-family="ui-monospace, Consolas, monospace" font-size="11">PORTFOLIO ↗</text>
+
+  <text x="28" y="72" fill="#a78bfa" font-family="ui-monospace, Consolas, monospace" font-size="11">02 · MULTI-TENANT SAAS · PWA</text>
+  <text x="28" y="106" fill="#e9edf7" font-family="system-ui, sans-serif" font-size="22" font-weight="800">ProjectFlow SaaS</text>
+  <text x="28" y="138" fill="#8b93a8" font-family="system-ui, sans-serif" font-size="14">Plataforma colaborativa con Angular PWA offline-first,</text>
+  <text x="28" y="159" fill="#8b93a8" font-family="system-ui, sans-serif" font-size="14">chat contextual en vivo por tarea y asistente IA.</text>
+
+  <g font-family="ui-monospace, Consolas, monospace" font-size="11" fill="#e9edf7">
+    <rect x="28" y="196" width="102" height="28" rx="6" fill="#05070f" stroke="#ffffff" stroke-opacity="0.14"/><text x="42" y="214">ANGULAR PWA</text>
+    <rect x="140" y="196" width="106" height="28" rx="6" fill="#05070f" stroke="#ffffff" stroke-opacity="0.14"/><text x="154" y="214">SPRING BOOT</text>
+    <rect x="256" y="196" width="104" height="28" rx="6" fill="#05070f" stroke="#ffffff" stroke-opacity="0.14"/><text x="270" y="214">POSTGRESQL</text>
+    <rect x="370" y="196" width="96" height="28" rx="6" fill="#05070f" stroke="#a78bfa" stroke-opacity="0.45"/><text x="382" y="214" fill="#a78bfa">WEBSOCKETS</text>
+  </g>
+</svg>
